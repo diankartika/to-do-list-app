@@ -1,8 +1,7 @@
-## Demo
 
-[Watch the video demo](docket.mp4)
 
 # Docket - Your Ultimate Tool for Staying Organized and Getting Things Done!  
+![Desain tanpa judul](https://github.com/user-attachments/assets/836ba28f-9fdc-4b14-81b6-f9fa5970f455)
 
 **Docket** is a sleek and intuitive to-do list application designed to help you stay on top of your tasks and maximize productivity. With a modern user interface and robust functionality, Docket ensures your journey to organization is effortless and enjoyable.  
 
