@@ -1,6 +1,6 @@
 ## Demo
 
-[Watch the video demo](to-do-list-app/docket.mp4)
+[Watch the video demo](docket.mp4)
 
 # Docket - Your Ultimate Tool for Staying Organized and Getting Things Done!  
 
