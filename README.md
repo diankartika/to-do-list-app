@@ -1,3 +1,7 @@
+## Demo
+
+[Watch the video demo](to-do-list-app/docket.mp4)
+
 # Docket - Your Ultimate Tool for Staying Organized and Getting Things Done!  
 
 **Docket** is a sleek and intuitive to-do list application designed to help you stay on top of your tasks and maximize productivity. With a modern user interface and robust functionality, Docket ensures your journey to organization is effortless and enjoyable.  
